@@ -1,0 +1,33 @@
+header h1 {
+    
+    color: red;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    text-align: center;
+}
+/*table {
+    border-collapse: collapse;
+    display: flex;
+    justify-content: center;
+
+}
+*/
+td, th{
+    border: 1px solid black;
+    
+}
+
+.lien{
+    display: flex;
+    justify-content: center;
+}
